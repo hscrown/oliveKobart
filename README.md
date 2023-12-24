@@ -9,6 +9,5 @@ oliveKobart is a language model specializing in summarizing Korean legal content
 ## Metadata
 
 - Language: Korean (ko)
-- Metrics: BLEU
 - Library: transformers
 - Tags: legal, koBart, summarization
